@@ -21,16 +21,14 @@ Supports multiple frontend stacks:
 
 ## Installation
 
-### Local use
+### install
 ```bash
-git clone https://github.com/15fathoms/tailwind-colors-vars
-cd tailwind-colors-vars
-npm install
+npm i tailwind-colors-vars
 ```
 
 ### Global install (optional)
 ```bash
-npm install -g .
+npm install -g tailwind-colors-vars
 ```
 
 This allows running `tailwind-colors` globally from anywhere.
@@ -94,14 +92,6 @@ With `--flat`, files are written directly in the target folder:
 
 ---
 
-## GitHub Actions
-
-This project includes a GitHub Actions workflow that automatically runs tests on push & pull requests.
-
-See `.github/workflows/test.yml`
-
----
-
 ## Development
 
 ### Run tests
@@ -119,7 +109,3 @@ Uses [Mocha](https://mochajs.org/) for CLI testing.
 MIT — Free to use, share and modify.
 
 ---
-
-## Credits
-
-Made by [15fathoms](https://github.com/15fathoms)
