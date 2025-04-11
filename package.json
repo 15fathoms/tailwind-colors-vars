@@ -1,6 +1,6 @@
 {
   "name": "tailwind-colors-vars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Export Tailwind CSS default colors in HEX, RGBA, or OKLCH for any frontend stack (CSS, SCSS, LESS, Stylus).",
   "bin": {
     "tailwind-colors": "./tailwindColors.js"
@@ -9,7 +9,6 @@
   "scripts": {
     "start": "node tailwindColors.js",
     "test": "mocha tailwind-colors-cli.test.js"
-    
   },
   "keywords": [],
   "author": "",
