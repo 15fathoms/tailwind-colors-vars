@@ -1,5 +1,9 @@
 # Tailwind Color Variables CLI
 
+[![npm version](https://img.shields.io/npm/v/tailwind-colors-vars.svg)](https://www.npmjs.com/package/tailwind-colors-vars)
+[![Tests](https://github.com/15fathoms/tailwind-colors-vars/actions/workflows/test.yml/badge.svg)](https://github.com/15fathoms/tailwind-colors-vars/actions)
+[![npm downloads](https://img.shields.io/npm/dm/tailwind-colors-vars.svg)](https://www.npmjs.com/package/tailwind-colors-vars)
+
 Export all [Tailwind CSS](https://tailwindcss.com/docs/customizing-colors) default colors as reusable variables in multiple formats: `HEX`, `RGBA`, and `OKLCH`.
 
 Supports multiple frontend stacks:
